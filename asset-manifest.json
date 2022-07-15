@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jbuck44/real-estate-co.git/static/css/main.eaac506b.css",
+    "main.js": "/jbuck44/real-estate-co.git/static/js/main.f8c107f8.js",
+    "index.html": "/jbuck44/real-estate-co.git/index.html",
+    "main.eaac506b.css.map": "/jbuck44/real-estate-co.git/static/css/main.eaac506b.css.map",
+    "main.f8c107f8.js.map": "/jbuck44/real-estate-co.git/static/js/main.f8c107f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaac506b.css",
+    "static/js/main.f8c107f8.js"
+  ]
+}
